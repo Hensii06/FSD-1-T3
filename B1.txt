@@ -1,0 +1,18 @@
+-- for exam 
+
+<html>
+    <head>
+        <link href="bootstrap.min.css" rel="stylesheet">
+        <script src="bootstrap.bundle.min.js">
+        </script>
+    </head>
+</html>
+
+
+        breakpoint      max-width
+xs       <576 px          100%
+sm       >=576            540px
+md       >=768            720px
+lg       >=992            960px
+xl       >=1200           1140px
+xxl      >=1400           1320px
