@@ -1,0 +1,35 @@
+        breakpoint      max-width
+xs       <576 px          100%
+sm       >=576            540px
+md       >=768            720px
+lg       >=992            960px
+xl       >=1200           1140px
+xxl      >=1400           1320px
+
+
+margin padding
+m-0/1/2/3/4/5/auto
+p-0/1/2/3/4/5
+
+top margin & padding
+mt/pt-
+
+bottom margin & padding
+mb/pb-
+
+start margin(left) & padding
+ms/ps-
+
+end margin(right) & padding
+me/pe-
+
+x- margin(right) & padding
+mx/px-
+
+y- margin(right) & padding
+my/py-
+
+
+height & width
+h-25/50/75/100/auto
+w-25/50/75/100/auto
